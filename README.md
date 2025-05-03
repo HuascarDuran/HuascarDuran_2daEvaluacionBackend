@@ -24,7 +24,7 @@ Este proyecto implementa un microservicio independiente utilizando **GraphQL** q
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/microservicio-usuarios-graphql.git
+git clone https://github.com/tuusuario/microservicio-graphql.git
 ```
 
 2. Entrar en el proyecto:
