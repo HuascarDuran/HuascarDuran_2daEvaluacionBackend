@@ -20,6 +20,8 @@ Este proyecto implementa un microservicio independiente utilizando **GraphQL** q
 ---
 
 ## 🛠️ Instalación
+--extra tip: crear el entorno virtual venv con el siguiente comando: python -m venv venv
+(esto para el backend) se subió los archivos en la carpeta app, porque subir toda la carpeta del back arruina el repositorio grupal del proyecto)
 
 1. Clonar el repositorio:
 
